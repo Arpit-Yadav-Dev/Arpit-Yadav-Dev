@@ -22,7 +22,7 @@ I'm a passionate developer who enjoys turning ideas into reality with code. Whet
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpit-Yadav-Dev&show_icons=true&theme=radical)
 
-## 🌐 Let's Connect
+## 🌐 Let's Connec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-yadav-74574826a/)
 [![Website](https://img.shields.io/badge/Portfolio-%231a1a1a.svg?style=for-the-badge&logo=web)](https://yourportfolio.com)
