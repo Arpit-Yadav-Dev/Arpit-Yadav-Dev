@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arpit,
 Welcome to my GitHub playground! 🚀
-
+    
 I'm a passionate developer who enjoys turning ideas into reality with code. Whether it's crafting web applications, or diving into the world of AI, I'm always up for a coding adventure.
 
 ## 🛠️ Technologies & Tools 
