@@ -3,7 +3,7 @@ Welcome to my GitHub playground! 🚀
 
 I'm a passionate developer who enjoys turning ideas into reality with code. Whether it's crafting web applications, or diving into the world of AI, I'm always up for a coding adventure.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
